@@ -1,1 +1,1 @@
-# proxy-EC
+# AM-proxy-server
