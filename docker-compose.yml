@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+  server:
+    build: .
+    image: 'elchangtw/mendsf-proxy'
+    restart: always
+    ports:
+      - '80:3000'
